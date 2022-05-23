@@ -1,4 +1,4 @@
-let cadena = 0;
+let cadena = '';
 
 function getValue(newValor){
     let boton = document.getElementById(newValor).innerHTML;
