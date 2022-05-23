@@ -13,7 +13,7 @@ function setDefault(){
 
 function getResult(){
     let result = eval(cadena);
-    document.getElementById('lcd').value= cadena;
+    document.getElementById('lcd').value= result;
 }
 
 // function getResult(){ }
